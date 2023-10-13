@@ -10,7 +10,7 @@ const Home = () => {
       <h1 style={{ marginBottom: '10px' }}>Encuentra aquí lo que estás buscando!</h1>
       <h2 style={{ marginTop: '10px' }}>Cuentos de Sabiduría.</h2>
       <div className={Style.playerContainer}>
-        <Player />
+      
      
       </div>
       <Book />
