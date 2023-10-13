@@ -1,0 +1,28 @@
+
+.player-button {
+    padding: 20px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .player-button:hover {
+    background-color: #ff6347;
+    color: white;
+  }
+  
+  .player-button.playing {
+    background-color: #ff6347;
+    color: white;
+  }
+  
+  .player-button.paused {
+    background-color: #4caf50;
+    color: white;
+   
+    
+  }
+  

@@ -1,0 +1,35 @@
+.footer {
+    background-color: #4caf50;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border: 2px solid white; 
+    font-size: 33px;
+       
+  }
+  
+  .socialLinks a {
+    margin: 0 10px;
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .socialLinks a:hover {
+    color: white;
+  }
+  
+  /* Footer.module.css */
+
+.hovered {
+    text-decoration: underline; /* Puedes personalizar estilos al pasar el ratón */
+  }
+  
+  .emailDetail {
+    display: block;
+    font-size: 14px;
+    margin-top: 5px;
+    color: #555;
+  }
+  

@@ -1,0 +1,26 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; 
+  font-family: 'Handlee', cursive;
+}
+
+.container {
+  position: relative;
+  background-image: url('../../assets/img/flower.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Handlee', cursive, white;
+  font-weight: 700;
+  font-size: 30px;
+  color: white;
+}
+
+
