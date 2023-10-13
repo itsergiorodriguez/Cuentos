@@ -32,4 +32,6 @@
     margin-top: 5px;
     color: #555;
   }
-  
+  .content {
+    padding-bottom: 100px; /* Altura del footer */
+  }
