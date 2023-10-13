@@ -12,6 +12,7 @@
   margin-bottom: 10%; /* Margen inferior para dejar espacio entre el footer y .libro-container */
   margin-top: 1%;
   height: 1000px;
+  padding-bottom: 10px;
 }
 
 .libro-container::-webkit-scrollbar {
